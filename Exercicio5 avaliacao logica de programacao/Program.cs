@@ -10,6 +10,7 @@ namespace Exercicio5_avaliacao_logica_de_programacao
     {
         static void Main(string[] args)
         {
+            //Nilton Kazuo Hasegawa Haji RA:6322507
             //Fazer um programa para encontrar todos os números pares entre 1 e 100.
 
 
